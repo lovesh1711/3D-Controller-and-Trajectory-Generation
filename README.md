@@ -26,3 +26,4 @@ Extending our PD controller to control a quadrotor in 3D. We will then generate 
 ### Velocity
 ![Quad_velocity](https://user-images.githubusercontent.com/88122434/176944295-ed8ffc68-60a2-4aae-9698-1417dc5a0521.jpg)
 
+![Trajectory generator](https://user-images.githubusercontent.com/88122434/176945251-c98ceeda-13ac-48b9-9c76-b5af86f0933d.gif)
