@@ -17,6 +17,12 @@ Extending our PD controller to control a quadrotor in 3D. We will then generate 
 ### Velocity
 ![Quad_velocity](https://user-images.githubusercontent.com/88122434/176942518-d6f8a72e-79f9-4697-85c7-1bfae40c64bc.jpg)
 
+![Helix](https://user-images.githubusercontent.com/88122434/176943953-a38ab4aa-5119-42a3-a772-7bfcecac7e87.gif)
 
+## Trajectory generation using given Waypoints
 
+### Position
+![Quad_position](https://user-images.githubusercontent.com/88122434/176944266-ccec7907-e371-43ca-8fe4-1166248d2665.jpg)
+### Velocity
+![Quad_velocity](https://user-images.githubusercontent.com/88122434/176944295-ed8ffc68-60a2-4aae-9698-1417dc5a0521.jpg)
 
